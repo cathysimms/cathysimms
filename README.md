@@ -1,4 +1,10 @@
 ### Hi there 👋
+My name is Cathy
+
+### Important things to know about me...
+* I have a dog
+![TofuTheDog](https://photos.google.com/photo/AF1QipOGGj1lOKqCPxwgQ8k5Q6fplvQCGQCxHjwHLu-d
+)
 
 <!--
 **cathysimms/cathysimms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
